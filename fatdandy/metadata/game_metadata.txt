@@ -1,0 +1,7 @@
+devid=jeanarjean
+devtitle=jeanarjean
+gameid=fatdandy
+gametitle=fatdandy
+version=1.0
+icon=metadata/icon.png
+compile_ruby=false

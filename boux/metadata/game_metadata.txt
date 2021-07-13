@@ -1,7 +1,7 @@
 devid=jeanarjean
 devtitle=jeanarjean
-gameid=hello-dragonrubyworld
-gametitle=HelloDragonRubyWorld
+gameid=boux
+gametitle=boux
 version=1.0
 icon=metadata/icon.png
 compile_ruby=false
